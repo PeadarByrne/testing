@@ -1,4 +1,3 @@
 # Demo
 
-Project description
-Make edit
+Project description (make edit)
